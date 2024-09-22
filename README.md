@@ -1,6 +1,6 @@
-# Udemy - Keeper App Project 
+Keeper App Project
 
-This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
+The Keeper app is a secure note-taking application built with React.js. It allows users to create, edit, and delete notes, which can include text, images, and other multimedia content. The app features a clean and intuitive user interface, making it easy to organize and manage notes.
 
 ## Table of contents
 
@@ -26,7 +26,6 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 
 ### Links
 
-- Solution URL: [https://github.com/fotinh0/keeper-app](https://github.com/fotinh0/keeper-app)
 - Live Site URL: [https://keeper-app-fc.netlify.app/](https://keeper-app-fc.netlify.app/)   [![Netlify Status](https://api.netlify.com/api/v1/badges/f4f81921-d934-4e10-aa92-2b4334da5815/deploy-status)](https://app.netlify.com/sites/keeper-app-fc/deploys)
 
 ## My Process
@@ -35,14 +34,7 @@ This is a solution to the [Keeper App Project](https://www.udemy.com/course/the-
 - React.js
 - HTML / CSS / ES6
 
-### Useful resources
-
-- [Material UI](https://mui.com/)
-
-- [reactjs.org](https://reactjs.org/docs/getting-started.html)
-
 ## Author
 
-- GitHub - [@Fotinh0](https://github.com/fotinh0)
-- Frontend Mentor - [@fotinh0](https://www.frontendmentor.io/profile/fotinh0)
-- LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
+- GitHub - [@Himanshu8303](https://github.com/Himanshu8303)
+- LinkedIn - [@himanshu-verma](linkedin.com/in/himanshu-verma-6a8a48210/)
